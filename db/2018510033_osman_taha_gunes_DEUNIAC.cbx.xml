@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="2018510033_osman_taha_gunes_DEUNIAC">
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|A:STR12|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_4qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|datamem:inst42|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_vbk1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|instDec:inst45|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_lbf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|ld:inst52|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_1qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|ldmux:inst49|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_1qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|osman_taha_gunes_2018510033_ALU:inst56|alu_add:inst3|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_5ki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|outputreg:inst40|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|GPR:inst38|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|generalreg:inst26|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|osman_taha_gunes_2018510033_ALU:inst56|aluclshift:inst1|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_ufc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|adrreg:inst44|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|osman_taha_gunes_2018510033_ALU:inst56|alu_mux3:inst10|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_6qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|inputreg:inst39|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|ld:inst51|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_1qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|osman_taha_gunes_2018510033_ALU:inst56|alu_add2:inst4|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_5ki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|writedec:inst43|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_7uf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|A:inst28|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_4qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|GPR:R2|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|io:inst47|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_1qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|osman_taha_gunes_2018510033_ALU:inst56|aluclshift2:inst2|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_bic.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|qDec:inst46|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_t9f.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|readmux:inst50|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_lrc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|B:inst37|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_4qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|ld:inst48|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_1qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|mux2:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_4qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2018510033_osman_taha_gunes_newBUS|osman_taha_gunes_2018510033_ALU:inst56|alu_mux:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_9qc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
